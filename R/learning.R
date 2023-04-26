@@ -1,4 +1,3 @@
-
 # Basics of R -------------------------------------------------------------
 
 colnames(airquality)
@@ -18,4 +17,23 @@ library(tidyverse)
 # This will be used for testing out Git
 
 # When a conflict happens
+
+# Chapter 7 - Data managment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
